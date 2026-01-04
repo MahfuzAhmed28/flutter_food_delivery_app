@@ -131,7 +131,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Widget makeItem({image}){
     return AspectRatio(
-      aspectRatio: 1/1.2,
+      aspectRatio: 1/1.5,
       child: GestureDetector(
         child: Container(
           margin: EdgeInsets.only(right: 20),
