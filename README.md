@@ -4,8 +4,8 @@ A new Flutter project.
 
 
 <p align="center">
-  <img src="screenshots/one.png" width="220" />
-  <img src="screenshots/two.png" width="220" />
+  <img src="screenshots/one.jpg" width="220" />
+  <img src="screenshots/two.jpg" width="220" />
 </p>
 
 ## Getting Started
